@@ -1,0 +1,9 @@
+[AsyncFunction: findOne] {
+  returnType: 'Document',
+  returnsPromise: true,
+  serverVersions: [ '0.0.0', '999.999.999' ],
+  topologies: [ 0, 2, 1 ],
+  deprecated: false,
+  platforms: [ 0, 1, 2 ],
+  help: [Function] Help
+}
